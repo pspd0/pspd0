@@ -5,8 +5,8 @@
 ### [ GitHub Stats 📊 ]
 
 <div>
-      <img alt="rorack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rorack&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-      <img align="top" alt="rorack's GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rorack&show_icons=true&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000"/>
+      <img alt="rorack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pspd0&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+      <img align="top" alt="rorack's GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pspd0&show_icons=true&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000"/>
 </div>
 
 <br>
