@@ -13,4 +13,4 @@
 
 ### [ Discord ]
 
-(https://discord.com/users/793017237144862740)
+[](https://discord.com/users/793017237144862740)
