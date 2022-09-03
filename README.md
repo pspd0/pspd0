@@ -13,4 +13,4 @@
 
 ### [ Discord ]
 
-[![Discord](https://discord.c99.nl/widget/theme-2/793017237144862740.png)](https://discord.com/users/793017237144862740)
+[![Discord](https://discord.c99.nl/widget/theme-3/793017237144862740.png)](https://discord.com/users/793017237144862740)
